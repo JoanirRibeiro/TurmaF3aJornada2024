@@ -9,3 +9,15 @@ criaCartao(
     'Quando a filosofia surgiu?',
     'Aproximadamente no século V aC'
 )
+
+criaCartao(
+    'Filsofia',
+    'Quando a filosofia surgiu?',
+    'Aproximadamente no século V aC'
+)
+
+criaCartao(
+    'Filsofia',
+    'Quando a filosofia surgiu?',
+    'Aproximadamente no século V aC'
+)
