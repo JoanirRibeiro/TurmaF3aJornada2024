@@ -3,7 +3,7 @@
 :root{
   --text-color: #ffffff;
   --card-front-color: #772D2D;
-  --card-back-color: #BC9E3E;
+  --card-back-color: #ccbf96;
 }
 
 body {
@@ -75,7 +75,10 @@ body {
   }
 
   .cartao__conteudo__resposta{
+    background-color: rgba(188, 158, 62, 0.6);
     transform: rotateY(180deg);
+    border: 4px solid var(--card-front-color);
+    box-sizing: border-box;
   }
 
 
