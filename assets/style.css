@@ -28,7 +28,7 @@ body {
     flex-basis: calc(33% - 6rem);
   }
   .cartao__conteudo p {
-    padding: 4rem;
+    padding: 2rem;
     margin-top: 4rem;
   }
 
@@ -46,6 +46,10 @@ body {
   .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
+  }
+
+  .cartao__conteudo__pergunta img{
+    height: 30%;
   }
 
   .cartao__conteudo__resposta p {
